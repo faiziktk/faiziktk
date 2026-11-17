@@ -1,16 +1,16 @@
-## Hi there 👋
+# Faizan Ahmad Khattak
 
-<!--
-**faiziktk/faiziktk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Postdoctoral Research Fellow in Computer Science | University of Leeds**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a researcher working in numerical linear algebra, high-performance computing, and scientific computing.
+
+🌐 **Personal Website:** [faiziktk.github.io](https://faiziktk.github.io/)
+
+🔬 **Research Interests**
+- Numerical Linear Algebra
+- High-Performance Computing
+- Scientific Computing
+
+💻 **GitHub:** [github.com/faiziktk](https://github.com/faiziktk)
